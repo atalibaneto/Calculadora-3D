@@ -1,0 +1,6 @@
+{
+  "name": "PrintLedger",
+  "description": "Calculadora de custo e preço de venda para impressão 3D cobrindo filamento, tempo de impressão, energia elétrica, depreciação da impressora, embalagem e margem de lucro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
